@@ -5,5 +5,3 @@ FROM gitpod/workspace-full
 # RUN brew install bastet
 #
 # More information: https://www.gitpod.io/docs/config-docker/
-
-RUN bash sdk install java
