@@ -1,0 +1,6 @@
+{
+    "java.completion.guessMethodArguments": true,
+    "java.codeGeneration.generateComments": true,
+    "java.codeGeneration.hashCodeEquals.useInstanceof": true,
+    "java.codeGeneration.hashCodeEquals.useJava7Objects": true
+}
