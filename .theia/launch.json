@@ -4,17 +4,24 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "type": "java",
-      "name": "Debug (Launch) - Current File",
-      "request": "launch",
-      "mainClass": "${file}"
+        "type": "java",
+        "name": "CodeLens (Launch) - Main",
+        "request": "launch",
+        "mainClass": "com.app.Main",
+        "projectName": "SimpleApp_a8415166"
     },
     {
-      "type": "java",
-      "name": "Debug (Launch)-Core<SimpleApp_a8415166>",
-      "request": "launch",
-      "mainClass": "Core",
-      "projectName": "SimpleApp_a8415166"
+        "type": "java",
+        "name": "Debug (Launch) - Current File",
+        "request": "launch",
+        "mainClass": "${file}"
+    },
+    {
+        "type": "java",
+        "name": "Debug (Launch)-Core<SimpleApp_a8415166>",
+        "request": "launch",
+        "mainClass": "Core",
+        "projectName": "SimpleApp_a8415166"
     }
-  ]
+]
 }
