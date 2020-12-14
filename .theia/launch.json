@@ -5,7 +5,6 @@
   "configurations": [
     {
         "type": "java",
-<<<<<<< HEAD
         "name": "CodeLens (Launch) - Test",
         "request": "launch",
         "mainClass": "Test",
@@ -13,22 +12,6 @@
     },
     {
         "type": "java",
-=======
-        "name": "CodeLens (Launch) - Core",
-        "request": "launch",
-        "mainClass": "Core",
-        "projectName": "MyWorkSpace_874aacc0"
-    },
-    {
-        "type": "java",
-        "name": "CodeLens (Launch) - Main",
-        "request": "launch",
-        "mainClass": "com.app.Main",
-        "projectName": "SimpleApp_a8415166"
-    },
-    {
-        "type": "java",
->>>>>>> 69a9a3121257c6183f0d43dddcaaa6f92707c50f
         "name": "Debug (Launch) - Current File",
         "request": "launch",
         "mainClass": "${file}"
