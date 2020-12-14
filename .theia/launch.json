@@ -5,6 +5,13 @@
   "configurations": [
     {
         "type": "java",
+        "name": "CodeLens (Launch) - Core",
+        "request": "launch",
+        "mainClass": "Core",
+        "projectName": "MyWorkSpace_874aacc0"
+    },
+    {
+        "type": "java",
         "name": "CodeLens (Launch) - Main",
         "request": "launch",
         "mainClass": "com.app.Main",
